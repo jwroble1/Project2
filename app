@@ -1,5 +1,3 @@
-app
-
 apply plugin: 'com.android.application'
 
 android {
