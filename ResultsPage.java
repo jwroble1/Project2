@@ -1,5 +1,3 @@
-ResultsPage.java
-
 package com.example.spearre91.adviseme;
 
 import android.content.Intent;
